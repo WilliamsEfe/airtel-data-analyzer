@@ -1,6 +1,5 @@
 #! /bin/sh
 
-
 """
     1. First, the file is opened and contents are read
     2. The contents are filtered by transaction type, namely: AIRTIME, DATA or TALKTTIME
