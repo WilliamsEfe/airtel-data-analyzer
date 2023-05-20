@@ -21,7 +21,6 @@ First replace the input/output paths in your PC
 2. #66 of question1.py for output path of the csv file
 3. #12, #15 and #18 of question2.py for path to input log file
 
-
 # HOW TO RUN
 
 1. In order to run it first download python from: https://www.python.org/downloads/ and choose a suitable version for your operating system
@@ -37,5 +36,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-Last updated: 2021.03.22
-
+Last updated: 2023.05.20
